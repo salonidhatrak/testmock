@@ -1,0 +1,213 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "Tata",
+            "type": "Manual",
+            "year": 2019,
+            "kms": 10000,
+            "Description": "Tata Altroz with all original documents",
+            "Price": 500000
+        },
+        {
+            "id": 2,
+            "brand": "Tata",
+            "type": "AMT",
+            "year": 2017,
+            "kms": 8000,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 800000
+        },
+        {
+            "id": 3,
+            "brand": "Maruti",
+            "type": "AMT",
+            "year": 2020,
+            "kms": 8000,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 1800000
+        },
+        {
+            "id": 2,
+            "brand": "Mahendra",
+            "type": "AMT",
+            "year": 2000,
+            "kms": 8000,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 8000
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "name": "saloni",
+            "email": "s@gmail.com",
+            "password": 123,
+            "task": [
+                {
+                    "t1": "attend mock",
+                    "t2": "attend interview",
+                    "t3": "revision",
+                    "t4": "breakfast",
+                    "t5": "sleep"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "rani",
+            "email": "r@gmail.com",
+            "password": 1234,
+            "task": [
+                {
+                    "t1": "attend mock",
+                    "t2": "attend interview",
+                    "t3": "revision  react",
+                    "t4": "dinner",
+                    "t5": "sleep"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "nilay",
+            "email": "n@gmail.com",
+            "password": 12345,
+            "task": [
+                {
+                    "t1": "study history",
+                    "t2": "attend interview",
+                    "t3": "revision of history",
+                    "t4": "palyng footboll",
+                    "t5": "sleep"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "kalyani",
+            "email": "k@gmail.com",
+            "password": 12,
+            "task": [
+                {
+                    "t1": "shepping ",
+                    "t2": "attend interview",
+                    "t3": "commit work",
+                    "t4": "lunch",
+                    "t5": "sleep"
+                }
+            ]
+        }
+    ],
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
+        },
+        {
+            "id": 2,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        },
+        {
+            "id": 3,
+            "name": "Jerry",
+            "age": 4,
+            "place": "Nashik",
+            "gender": "Female"
+        },
+        {
+            "id": 4,
+            "name": "Rio",
+            "age": 1,
+            "place": "Home",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "name": "Lio",
+            "age": 5,
+            "place": "Pune",
+            "gender": "Male"
+        },
+        {
+            "id": 6,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        }
+    ],
+    "saloni": [
+        {
+            "id": 1,
+            "type": "female"
+        },
+        {
+            "id": 2,
+            "type": "male"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1299,
+            "borrowed": false
+        },
+        {
+            "id": 2,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "History",
+            "edition": "2022",
+            "publisher": "Bloomsbury",
+            "cost": 1200,
+            "borrowed": false
+        },
+        {
+            "id": 3,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "The Braille edition of the book Exam Warriors",
+            "author": "PM Narendra Modi",
+            "genre": " Business",
+            "edition": "2020",
+            "publisher": "Bloomsbury",
+            "cost": 500,
+            "borrowed": false
+        },
+        {
+            "id": 4,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Believe-What Life and Cricket Taught Me",
+            "author": "Suresh Raina",
+            "genre": " Business",
+            "edition": "2022",
+            "publisher": "Bloomsbury",
+            "cost": 1500,
+            "borrowed": false
+        },
+        {
+            "id": 5,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Whereabouts",
+            "author": "Jhumpa Lahiri",
+            "genre": "Tech",
+            "edition": "2020",
+            "publisher": "Bloomsbury",
+            "cost": 2500,
+            "borrowed": false
+        }
+    ]
+}
